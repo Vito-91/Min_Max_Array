@@ -1,18 +1,18 @@
 # Min_Max_Array
 Dato un array di numeri interi, trovare e stampare il valore minimo e il valore massimo.
 
-# RIFLESSIONE:
+# RIFLESSIONE
 Ho un array di interi (int[]), quindi una lista di numeri già pronta.
 Devo guardare tutti gli elementi, quindi userò un ciclo.
 
-# STRUMENTI CHE USERÒ:
+# STRUMENTI CHE USERÒ
 - int[] -> per contenere i numeri
 - due variabili -> min e max
 - ciclo for (o for-each) -> per scorrere l'array
 - if -> per confrontare i valori
 - .length -> per conoscere la lunghezza dell'array
 
-# PROCEDIMENTO:
+# PROCEDIMENTO
 
 1) Inserisco dentro l'array i numeri da analizzare.
 
